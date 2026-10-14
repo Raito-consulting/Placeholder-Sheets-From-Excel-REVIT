@@ -1,0 +1,7 @@
+title: Placeholders
+tooltip: >
+  Create placeholder sheets in bulk from an Excel (.xlsx) or CSV file.
+  Expected columns: Category, Discipline, Order, Suborder, Sheet #, Sheet Name.
+  Only Sheet # and Sheet Name are required. Extra columns are written to
+  parameters of the same name.
+author: pcielemecki
